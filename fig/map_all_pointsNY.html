@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9879077437a0ca17737a54d01e9222ea {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9879077437a0ca17737a54d01e9222ea" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9879077437a0ca17737a54d01e9222ea = L.map(
+                "map_9879077437a0ca17737a54d01e9222ea",
+                {
+                    center: [40.745147826315794, -73.98944178947369],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b043f486e7a009959acc3ae3f4a34e61 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+            var marker_251b2dea58bd75f9afe7d9e83854167e = L.marker(
+                [40.7464969, -74.0094471],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_471fcdc7afbf641fc97ac935e65216e3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a388f82fc5778257c6343218db8864f5 = $(`<div id="html_a388f82fc5778257c6343218db8864f5" style="width: 100.0%; height: 100.0%;">Name: Joost<br>Latitude: 40.7464969<br>Longitude: -74.0094471</div>`)[0];
+                popup_471fcdc7afbf641fc97ac935e65216e3.setContent(html_a388f82fc5778257c6343218db8864f5);
+            
+        
+
+        marker_251b2dea58bd75f9afe7d9e83854167e.bindPopup(popup_471fcdc7afbf641fc97ac935e65216e3)
+        ;
+
+        
+    
+    
+            var marker_fd9cb76cdd918da93699152fe99aaf7d = L.marker(
+                [40.726155, -73.995625],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_2de59f221fa5b1f117113d87fdc59209 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4ff10d304a1887c22b0a1aa1da93a6fe = $(`<div id="html_4ff10d304a1887c22b0a1aa1da93a6fe" style="width: 100.0%; height: 100.0%;">Name: Livestream<br>Latitude: 40.726155<br>Longitude: -73.995625</div>`)[0];
+                popup_2de59f221fa5b1f117113d87fdc59209.setContent(html_4ff10d304a1887c22b0a1aa1da93a6fe);
+            
+        
+
+        marker_fd9cb76cdd918da93699152fe99aaf7d.bindPopup(popup_2de59f221fa5b1f117113d87fdc59209)
+        ;
+
+        
+    
+    
+            var marker_03d96231fc1c91ac7fe8e4c6f076c67b = L.marker(
+                [40.722655, -73.99873],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_a27592d81ca76a485ec227ef0f342f9f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d68b1833969a9ca0660b93451eff135d = $(`<div id="html_d68b1833969a9ca0660b93451eff135d" style="width: 100.0%; height: 100.0%;">Name: Pando Networks<br>Latitude: 40.722655<br>Longitude: -73.99873</div>`)[0];
+                popup_a27592d81ca76a485ec227ef0f342f9f.setContent(html_d68b1833969a9ca0660b93451eff135d);
+            
+        
+
+        marker_03d96231fc1c91ac7fe8e4c6f076c67b.bindPopup(popup_a27592d81ca76a485ec227ef0f342f9f)
+        ;
+
+        
+    
+    
+            var marker_d8a3f0e8b2b975b5a645a0f86d54a1b9 = L.marker(
+                [40.723384, -74.001704],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_7575b2e72a23f446d7a985e547617108 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8e98f948d2462813e7e1ddc2e51b98c0 = $(`<div id="html_8e98f948d2462813e7e1ddc2e51b98c0" style="width: 100.0%; height: 100.0%;">Name: OMGPOP<br>Latitude: 40.723384<br>Longitude: -74.001704</div>`)[0];
+                popup_7575b2e72a23f446d7a985e547617108.setContent(html_8e98f948d2462813e7e1ddc2e51b98c0);
+            
+        
+
+        marker_d8a3f0e8b2b975b5a645a0f86d54a1b9.bindPopup(popup_7575b2e72a23f446d7a985e547617108)
+        ;
+
+        
+    
+    
+            var marker_60cac2a11db3e88f94a9fe16465d23eb = L.marker(
+                [40.781159, -73.978332],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_db5d35030fe1f0caea3365fec6369df3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7243923d58f97e3235c1878fe6ee09f5 = $(`<div id="html_7243923d58f97e3235c1878fe6ee09f5" style="width: 100.0%; height: 100.0%;">Name: RayV<br>Latitude: 40.781159<br>Longitude: -73.978332</div>`)[0];
+                popup_db5d35030fe1f0caea3365fec6369df3.setContent(html_7243923d58f97e3235c1878fe6ee09f5);
+            
+        
+
+        marker_60cac2a11db3e88f94a9fe16465d23eb.bindPopup(popup_db5d35030fe1f0caea3365fec6369df3)
+        ;
+
+        
+    
+    
+            var marker_6105ea24291749d1457542053ab27e27 = L.marker(
+                [40.752516, -73.973072],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_31364062303e567e52e844d8abefb1c7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1cec5d56300b221f1e96598eeb4d75a9 = $(`<div id="html_1cec5d56300b221f1e96598eeb4d75a9" style="width: 100.0%; height: 100.0%;">Name: WeShow<br>Latitude: 40.752516<br>Longitude: -73.973072</div>`)[0];
+                popup_31364062303e567e52e844d8abefb1c7.setContent(html_1cec5d56300b221f1e96598eeb4d75a9);
+            
+        
+
+        marker_6105ea24291749d1457542053ab27e27.bindPopup(popup_31364062303e567e52e844d8abefb1c7)
+        ;
+
+        
+    
+    
+            var marker_d40cc0e22280f127b367515cd69aae16 = L.marker(
+                [40.717248, -74.002662],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_b169be497473ba5640a1df6142d5044a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7b65703871fa610f453a3cd43208756d = $(`<div id="html_7b65703871fa610f453a3cd43208756d" style="width: 100.0%; height: 100.0%;">Name: Boonty<br>Latitude: 40.717248<br>Longitude: -74.002662</div>`)[0];
+                popup_b169be497473ba5640a1df6142d5044a.setContent(html_7b65703871fa610f453a3cd43208756d);
+            
+        
+
+        marker_d40cc0e22280f127b367515cd69aae16.bindPopup(popup_b169be497473ba5640a1df6142d5044a)
+        ;
+
+        
+    
+    
+            var marker_d9906b65f9b9b369898af42c5a1c9fc0 = L.marker(
+                [40.7570972, -73.969821],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_c172a58af7198ef71852d8f34fc84eca = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_31c828ab67b1704b6c9938a0754dc0ac = $(`<div id="html_31c828ab67b1704b6c9938a0754dc0ac" style="width: 100.0%; height: 100.0%;">Name: Generate<br>Latitude: 40.7570972<br>Longitude: -73.969821</div>`)[0];
+                popup_c172a58af7198ef71852d8f34fc84eca.setContent(html_31c828ab67b1704b6c9938a0754dc0ac);
+            
+        
+
+        marker_d9906b65f9b9b369898af42c5a1c9fc0.bindPopup(popup_c172a58af7198ef71852d8f34fc84eca)
+        ;
+
+        
+    
+    
+            var marker_0752fccc0143b20cbc1c55e72aa79ac7 = L.marker(
+                [40.73993, -73.9930489],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_1f1739b209f3a1f9644a14469f94e791 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_027ca70eba9fce427d7690313b85dd2a = $(`<div id="html_027ca70eba9fce427d7690313b85dd2a" style="width: 100.0%; height: 100.0%;">Name: Cellufun<br>Latitude: 40.73993<br>Longitude: -73.9930489</div>`)[0];
+                popup_1f1739b209f3a1f9644a14469f94e791.setContent(html_027ca70eba9fce427d7690313b85dd2a);
+            
+        
+
+        marker_0752fccc0143b20cbc1c55e72aa79ac7.bindPopup(popup_1f1739b209f3a1f9644a14469f94e791)
+        ;
+
+        
+    
+    
+            var marker_6bc9f3344515ecad7ced11c824459497 = L.marker(
+                [40.758504, -73.980068],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_9acf88e7ae37fae73018828935c713b7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a868f1686f6849ba04ada6f51296ef54 = $(`<div id="html_a868f1686f6849ba04ada6f51296ef54" style="width: 100.0%; height: 100.0%;">Name: Velocix<br>Latitude: 40.758504<br>Longitude: -73.980068</div>`)[0];
+                popup_9acf88e7ae37fae73018828935c713b7.setContent(html_a868f1686f6849ba04ada6f51296ef54);
+            
+        
+
+        marker_6bc9f3344515ecad7ced11c824459497.bindPopup(popup_9acf88e7ae37fae73018828935c713b7)
+        ;
+
+        
+    
+    
+            var marker_b3cce8f36107fb957778917cd5507279 = L.marker(
+                [40.754762, -73.988543],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_3eac4616c04bf1a1574369f62200459d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_edde6644c3882d42c216ee3b21a1b33d = $(`<div id="html_edde6644c3882d42c216ee3b21a1b33d" style="width: 100.0%; height: 100.0%;">Name: My Damn Channel<br>Latitude: 40.754762<br>Longitude: -73.988543</div>`)[0];
+                popup_3eac4616c04bf1a1574369f62200459d.setContent(html_edde6644c3882d42c216ee3b21a1b33d);
+            
+        
+
+        marker_b3cce8f36107fb957778917cd5507279.bindPopup(popup_3eac4616c04bf1a1574369f62200459d)
+        ;
+
+        
+    
+    
+            var marker_0fee4590e1678df2cd7899880f7c57a4 = L.marker(
+                [40.744594, -73.989698],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_d97ce4c09baa39ae171377ffeb3ab346 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e00049107e0c7b93f44579e940adcf72 = $(`<div id="html_e00049107e0c7b93f44579e940adcf72" style="width: 100.0%; height: 100.0%;">Name: For Your Imagination<br>Latitude: 40.744594<br>Longitude: -73.989698</div>`)[0];
+                popup_d97ce4c09baa39ae171377ffeb3ab346.setContent(html_e00049107e0c7b93f44579e940adcf72);
+            
+        
+
+        marker_0fee4590e1678df2cd7899880f7c57a4.bindPopup(popup_d97ce4c09baa39ae171377ffeb3ab346)
+        ;
+
+        
+    
+    
+            var marker_d0f4d495d4d8045acfd41630f1ede545 = L.marker(
+                [40.737216, -73.990947],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_cebc00a4ad800726a5fe94fdecd2df1e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c52766720e74a5b54658e3c024e62ff0 = $(`<div id="html_c52766720e74a5b54658e3c024e62ff0" style="width: 100.0%; height: 100.0%;">Name: Robotgalaxy<br>Latitude: 40.737216<br>Longitude: -73.990947</div>`)[0];
+                popup_cebc00a4ad800726a5fe94fdecd2df1e.setContent(html_c52766720e74a5b54658e3c024e62ff0);
+            
+        
+
+        marker_d0f4d495d4d8045acfd41630f1ede545.bindPopup(popup_cebc00a4ad800726a5fe94fdecd2df1e)
+        ;
+
+        
+    
+    
+            var marker_168e427c3c8383cd24ecfaa0d84d306d = L.marker(
+                [40.740512, -73.987794],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_4ccfe4af632dd9f1f4efe2cf81e65082 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ca79da19d6528f49059437cde8af0232 = $(`<div id="html_ca79da19d6528f49059437cde8af0232" style="width: 100.0%; height: 100.0%;">Name: Comixology<br>Latitude: 40.740512<br>Longitude: -73.987794</div>`)[0];
+                popup_4ccfe4af632dd9f1f4efe2cf81e65082.setContent(html_ca79da19d6528f49059437cde8af0232);
+            
+        
+
+        marker_168e427c3c8383cd24ecfaa0d84d306d.bindPopup(popup_4ccfe4af632dd9f1f4efe2cf81e65082)
+        ;
+
+        
+    
+    
+            var marker_302c8473ce3912589c1df9df38521c2c = L.marker(
+                [40.752672, -73.97593],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_a6cb56895fab073feb919ace32b1646b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c3a256f9e68c5eb16b2192c35babc8ba = $(`<div id="html_c3a256f9e68c5eb16b2192c35babc8ba" style="width: 100.0%; height: 100.0%;">Name: Major League Gaming<br>Latitude: 40.752672<br>Longitude: -73.97593</div>`)[0];
+                popup_a6cb56895fab073feb919ace32b1646b.setContent(html_c3a256f9e68c5eb16b2192c35babc8ba);
+            
+        
+
+        marker_302c8473ce3912589c1df9df38521c2c.bindPopup(popup_a6cb56895fab073feb919ace32b1646b)
+        ;
+
+        
+    
+    
+            var marker_bc4b238d0d9ecdd90078029ce3495c80 = L.marker(
+                [40.750597, -73.985273],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_f33bc74422e4496f4020488f7b28867e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_926b322cc56178df09a9cf28549ed6e4 = $(`<div id="html_926b322cc56178df09a9cf28549ed6e4" style="width: 100.0%; height: 100.0%;">Name: Crispy Gamer<br>Latitude: 40.750597<br>Longitude: -73.985273</div>`)[0];
+                popup_f33bc74422e4496f4020488f7b28867e.setContent(html_926b322cc56178df09a9cf28549ed6e4);
+            
+        
+
+        marker_bc4b238d0d9ecdd90078029ce3495c80.bindPopup(popup_f33bc74422e4496f4020488f7b28867e)
+        ;
+
+        
+    
+    
+            var marker_987e4165e2e0647d9c44b614933fee9a = L.marker(
+                [40.743877, -73.98618],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_867da9f65337ca1c0c225f84ec46d5ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a4eb85fba942adbdb17fc9828f3247f4 = $(`<div id="html_a4eb85fba942adbdb17fc9828f3247f4" style="width: 100.0%; height: 100.0%;">Name: Saavn<br>Latitude: 40.743877<br>Longitude: -73.98618</div>`)[0];
+                popup_867da9f65337ca1c0c225f84ec46d5ac.setContent(html_a4eb85fba942adbdb17fc9828f3247f4);
+            
+        
+
+        marker_987e4165e2e0647d9c44b614933fee9a.bindPopup(popup_867da9f65337ca1c0c225f84ec46d5ac)
+        ;
+
+        
+    
+    
+            var marker_f54d5e52b1faa76c1175c2cf633b633c = L.marker(
+                [40.756054, -73.986951],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_f0743e3b29b1d7bf6d51fd88939ec9a8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_45b75917d676fc29d801694975a76daa = $(`<div id="html_45b75917d676fc29d801694975a76daa" style="width: 100.0%; height: 100.0%;">Name: GameGround<br>Latitude: 40.756054<br>Longitude: -73.986951</div>`)[0];
+                popup_f0743e3b29b1d7bf6d51fd88939ec9a8.setContent(html_45b75917d676fc29d801694975a76daa);
+            
+        
+
+        marker_f54d5e52b1faa76c1175c2cf633b633c.bindPopup(popup_f0743e3b29b1d7bf6d51fd88939ec9a8)
+        ;
+
+        
+    
+    
+            var marker_1410fb0012c3adceb853d6115dec0397 = L.marker(
+                [40.7523796, -74.005568],
+                {}
+            ).addTo(map_9879077437a0ca17737a54d01e9222ea);
+        
+    
+        var popup_d2370aa30369500af2848d70ab327a01 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f4c53c5d36b3ccad6423624a41bcdd2f = $(`<div id="html_f4c53c5d36b3ccad6423624a41bcdd2f" style="width: 100.0%; height: 100.0%;">Name: Exent<br>Latitude: 40.7523796<br>Longitude: -74.005568</div>`)[0];
+                popup_d2370aa30369500af2848d70ab327a01.setContent(html_f4c53c5d36b3ccad6423624a41bcdd2f);
+            
+        
+
+        marker_1410fb0012c3adceb853d6115dec0397.bindPopup(popup_d2370aa30369500af2848d70ab327a01)
+        ;
+
+        
+    
+</script>
+</html>

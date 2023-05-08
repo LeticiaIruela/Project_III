@@ -1,0 +1,307 @@
+,name,description,number_of_employees,total_money_raised,category_code,tag_list,address1,address2,zip_code,city,state_code,country_code,latitude,longitude
+0,Lala,Lala Headquarters,,$44.2M,games_video,,209 Hamilton Ave,Suite #200,94301,Palo Alto,CA,USA,37.451151,-122.154369
+1,Joost,,0.0,$45M,games_video,"iptv, babelgum, television, video, theveniceproject",100 5th Ave Fl 6,,10011-6903,New York,NY,USA,40.7464969,-74.0094471
+2,Babelgum,,,$13.2M,games_video,"iptv, web2ireland",,,,London,,GBR,53.344104,-6.267494
+3,Kyte,,40.0,$23.4M,games_video,"video, mobile, iphone-app, video-platform, mobile-app, media, interactive",442 Post Street,10th Floor,94102,San Francisco,CA,USA,37.788482,-122.409173
+4,Veoh,,,$69.8M,games_video,"veoh, video, veohtv, socialvideo, videosharing, crunchbase, inuyasha",10180 Telesis Court Suite,Suite  400,92121,San Diego,CA,USA,32.902266,-117.20834
+5,YouTube,Corporate Headquarters,0.0,$11.5M,games_video,"channels, movies, rentals, share, usergeneratedvideo, viralvideo, video, videos",901 Cherry Ave,,94066,San Bruno,CA,USA,37.627971,-122.426804
+6,blogTV,Headquarters,,$3M,games_video,"blogtv, broadcast, chat, live",30 Ben Gurion St.,,52573,Ramat Gan,,ISR,31.046051,34.851612
+7,Livestream,Livestream HQ,120.0,$14.7M,games_video,"mogulus, ustream, justin-tv, live-broadcast, streaming, video, livecastr, livestream","111 8th Avenue, #1509",,10011,New York,NY,USA,40.726155,-73.995625
+8,Ustream,San Francisco Office,250.0,$60.1M,games_video,"live, stream, streaming, video, videos, broadcast, broadcasting, mobile, app",410 Townsend,Suite 400,94107,San Francisco,CA,USA,37.392936,-122.07948
+9,Ustream,Los Angeles Office,250.0,$60.1M,games_video,"live, stream, streaming, video, videos, broadcast, broadcasting, mobile, app",6725 W Sunset Blvd,Suite 320,90028,Los Angeles,CA,USA,,
+10,Ustream,Budapest Office,250.0,$60.1M,games_video,"live, stream, streaming, video, videos, broadcast, broadcasting, mobile, app",,,,Budapest,,HUN,,
+11,AdaptiveBlue,,15.0,$24M,games_video,"semantic-web, contextual-browsing, recommendations, entertainment, checkins",131 Varick St,,10013,NYC,NY,USA,40.801358,-74.3372
+12,Pando Networks,,23.0,$11M,games_video,"p2p, video, streaming, download, cdn",520 Broadway,10th Floor,10012,New York,NY,USA,40.722655,-73.99873
+13,Revision3,HQ,,$9M,games_video,"video, digg, msn",2415 3rd St,,94107,San Francisco,CA,USA,37.757758,-122.388243
+14,CastTV,,0.0,$3.1M,games_video,"videosearch, techcrunch40",374 Brannan St.,,94107,San Francisco,CA,USA,37.780716,-122.393913
+15,SellABand,,,$5M,games_video,"musicmonetizatoin, music, bands",Harderhook 22,,,46395 Bocholt,,DEU,51.808933,6.553452
+16,Funny Or Die,Head Quarters,,$18M,games_video,"celebrity, video, comedy",167 2nd Ave,,94401,San Mateo,CA,USA,37.421621,-122.137444
+17,MeeVee,,,$25M,games_video,"tvguide, video","500 Airport Blvd., Suite 400",,94010,Burlingame,CA,USA,37.590339,-122.341715
+18,RockYou,,106.0,$136M,games_video,"widgets, photos, avatars, countdown, horoscope, voicemail, rockyou, facebook, highoktane",585 Broadway,Suite A,94063,Redwood City,CA,USA,37.484619,-122.206893
+19,iLike,,28.0,$16.5M,games_video,"socialmusic, ilike, musicrecommendation, music, social, artists, musicians","1605 Boylston Ave, Suite 202",,98122,Seattle,WA,USA,47.615313,-122.323408
+20,hi5,,100.0,$52M,games_video,"hi5, socialnetworking, musicnetwork, youyu",55 Second Street,Suite 400,94105,San Francisco,CA,USA,37.788668,-122.400558
+21,Curse,San Francisco,58.0,$12M,games_video,"mmo, curse",60 Broadway,,94111,San Francisco,CA,USA,37.787092,-122.399972
+22,Curse,Huntsville,58.0,$12M,games_video,"mmo, curse",150 West Park Loop NW,,35806,Huntsville,AL,USA,,
+23,PeerMe,,,$5M,games_video,"voip, mvoip, videoconferencing",2115 Landings Drive,,94043,Mountain View,CA,USA,37.419819,-122.090188
+24,Vuze,Headquarters,20.0,$34M,games_video,,4 W. 4th Ave,,94402,San Mateo,CA,USA,37.4858654,-122.2262606
+25,PodTech,,,$7.5M,games_video,"videonetwork, onlinevideo, technologyvideo",1801 Page Mill Rd - Suite 400,,94304,Palo Alto,CA,USA,37.408256,-122.154176
+26,Crackle,,,$1.75M,games_video,"online-video, movies, television, original, online, content, sony",10202 W. Washington Blvd,SPP 1127b,90232,Culver City,CA,USA,34.017506,-118.401579
+27,BuddyTV,Seattle Headquarters,20.0,$10.6M,games_video,"tv, tvguide",190 Queen Anne Ave Suite 280,,98109,Seattle,WA,USA,47.61968,-122.356756
+28,PermissionTV,,,$9M,games_video,"tv, permissiontv, online-video-platform, interactivity, publishing, movies, ondemand, video","1601 Trapelo Road, Suite 168",,02451,Waltham,MA,USA,42.417268,-71.258466
+31,Revver,,,$12.7M,games_video,"video, youtube, usergeneratedvideo, revenue, revenue-share, ugc, ugv, usergeneratedcontent",,,,Los Angeles,CA,USA,34.052187,-118.243425
+32,Metacafe,,,$50M,games_video,"online-video, video-entertainment, online-entertainment, digital-entertainment, movies, video-games, sports, music, tv",128 King Street,3rd Floor,94107,San Francisco,CA,USA,37.437328,-122.159928
+33,Snocap,,,$25M,games_video,"musicdistribution, p2p, imeem, al-aydar, shawn-fanning, napster, myspace, myspace-music, fingerprinting, content-management, dalton-caldwell","201 Third Street, 2nd Floor",,94103,San Francisco,CA,USA,,
+34,Kongregate,,20.0,$19M,games_video,,2 Shaw Alley,4th Floor,94105,San Francisco,CA,USA,37.786942,-122.401245
+35,DanceJam,,0.0,$4.5M,games_video,"video, dance",965 Mission Street,Suite 730,94103,San Francisco,CA,USA,37.781557,-122.407959
+37,Zango,,225.0,$40M,games_video,"games, videos, downloads, free, adware",3600 136th Place SE,,98006,Bellevue,WA,USA,47.579208,-122.155668
+38,Mevio,,,$48.9M,games_video,"podcast, entertainmentnetwork",577 2nd St Suite 203,,94107,San Francisco,CA,USA,37.782263,-122.392142
+40,sezmi,,,$78.6M,games_video,"homeentertainment, tv, ondemandvideo",1301 Shoreway Road,Suite 310,94002,Belmont,CA,USA,37.524422,-122.265869
+41,sezmi,,,$78.6M,games_video,"homeentertainment, tv, ondemandvideo",2951 28th Street,Suite 2040,90405,Santa Monica,CA,USA,34.017373,-118.453218
+42,sezmi,,,$78.6M,games_video,"homeentertainment, tv, ondemandvideo",1000 NW 65th Street,Suite 300,33309,Fort Lauderdale,FL,USA,26.207024,-80.157296
+43,SpiralFrog,,15.0,$45M,games_video,"zucchero, music, free",95 Morton Street,Ground Floor,10014,New York,NY,USA,37.09024,-95.712891
+44,Vtap,,,$14M,games_video,"vtap, veveo, mobilesearch, videosearch, search",,,,Andover,MA,USA,42.656621,-71.140538
+45,MocoSpace,,25.0,$10.5M,games_video,mobile-social-networking,,,02111,Boston,MA,USA,42.350274,-71.058768
+46,Xfire,Xfire Headquarters,,$7M,games_video,"games, pc, entertainment, onlinegaming, skillgaming, pcgaming, socialnetworking, instantmessaging",310 Wilshire Blvd.,,90401,Santa Monica,CA,USA,34.0184659,-118.49863
+47,OMGPOP,,50.0,$16.6M,games_video,"dating, gaming, auction",SoHo,,,New York,NY,USA,40.723384,-74.001704
+48,OMGPOP,,50.0,$16.6M,games_video,"dating, gaming, auction",,,,Austin,TX,USA,,
+49,Crunchyroll,,50.0,$4.8M,games_video,"crunchyroll, anime, manga, video, gaming, music, kdrama, jdrama, subscription",,,94105,San Francisco,CA,USA,37.781265,-122.393229
+50,Magnify,,,$4.61M,games_video,"magnify-net, video, videochannels",,,,New York,NY,USA,,
+51,hulu,,153.0,$100M,games_video,"hulu, video, embeddable, professional, content, black, lost, heroes, simpsons, office, tv, movies",12312 W. Olympic Blvd.,,90064,Los Angeles,CA,USA,34.031276,-118.456806
+52,Musicshake,,28.0,$3.5M,games_video,"musicshake, musiccreation, user-generated-music, nexon",3460 Wilshire Blvd. 7FL,,90010,Los Angeles,CA,USA,,
+53,FlowPlay,,30.0,$3.97M,games_video,"flowplay, casual-games, virtual-world, avatars, mmo, casino, mmorpg, ourworld, vegas-world",114 Alaskan Way South,Ste. 100,98104,Seattle,WA,USA,47.6015315,-122.335943
+54,RotoHog,,,$8M,games_video,,,,,Los Angeles,CA,USA,33.959799,-118.343938
+55,ChessPark,,,$1M,games_video,"onlinegames, chess, multiplayer",,,,West Palm Beach,CA,USA,43.67084,-83.913153
+56,mig33,mig33 Headquarters,100.0,$32.4M,games_video,"socialentertainment, platform, clients, android, blackberry, gree, mtk, j2me, web, online, mobile, communities, virtual-gifts, avatars, chat, chatroom, games",111 North Bridge Road,Peninsula Plaza #26-01,179098,Singapore,,SGP,37.580304,-122.343679
+57,Metaplace,hi,12.0,$9.4M,games_video,"metaplace, games, social, facebook, mmo, areae, island-life, my-vineyard",415 S Cedros Ave,Suite 240,90275,Solana Beach,CA,USA,33.020832,-117.077311
+58,PlaySpan,HQ,,$46.3M,games_video,"mmog, commerce, gamecommerce",,,95054,Santa Clara,CA,USA,37.396312,-121.961396
+59,PlaySpan,Visa Inc,,$46.3M,games_video,"mmog, commerce, gamecommerce",P.O. Box 8999,,94128-8999,San Francisco,CA,USA,,
+60,Graspr,,,$2.5M,games_video,"socialnetworking, video, instructions, howto","779 E Evelyn Ave, Suite D",,94041,Mountain View,CA,USA,37.384919,-122.053175
+61,Rupture,Headquarters,25.0,$3M,games_video,"wow, worldofwarcraft, socialnetwork, napster, snocap",400 2nd Street,Suite 350,94107,San Francisco,CA,USA,37.783898,-122.395234
+62,RayV,,,$16M,games_video,"television, tv, p2p, virv","150 West 77, Suite 4",,,New York,NY,USA,40.781159,-73.978332
+63,Veodia,HQ,15.0,$8.3M,games_video,"video, streaming",1825 S Grant Street,Suite 500,94402,San Mateo,CA,USA,37.553743,-122.300246
+65,OnLive,Headquarters,,$56.5M,games_video,,181 Lytton Ave.,,94301,Palo Alto,CA,USA,37.09024,-95.712891
+66,PicksPal,,,$15M,games_video,"fantasysports, gaming, picks, sports",,,,Mountain View,CA,USA,37.40047,-122.072981
+67,Zattoo,Zattoo USA,45.0,$10M,games_video,"p2p, onlinevideo, p2pstreaming, online-tv",1327 Jones Dr. Suite 106,,48105,Ann Arbor,MI,USA,42.292649,-83.734673
+68,Zattoo,Zattoo Europe,45.0,$10M,games_video,"p2p, onlinevideo, p2pstreaming, online-tv",Elias-Canetti-Strasse 7,,,CH-8050 ZÃ¼rich,,CHE,,
+69,Akimbo,,,$35.7M,games_video,ondemandvideo,411 Borel Avenue,Suite 100,94402,San Mateo,CA,USA,37.548482,-122.320534
+70,Fix8,,,$5M,games_video,"avatar, video-im, im, video",15250 Ventura Blvd,,91403,Sherman Oaks,CA,USA,34.152826,-118.465582
+71,ZeniMax,,,$586M,games_video,,1370 Piccard Drive,Suite 120,20850,Rockville,MD,USA,39.105555,-77.179772
+72,Blowtorch,,,$50M,games_video,"entertainment, movies, filmstudio",10 Liberty Ship Way #330,,94965,Sausalito,CA,USA,37.862592,-122.493561
+73,RedLasso,,,C$8.5M,games_video,"radio, tv, clips, share",620 Allendale Road,Suite 100-A,19406,King of Prussia,PA,USA,40.099703,-75.39599
+74,YouLicense,,12.0,$1.1M,games_video,"license, music, marketplace, social",,,63118,Tel Aviv,,ISR,,
+75,Motionbox,,,$17.2M,games_video,"video, video-sharing, video-hosting, video-editing, video-streaming, personal-video, videography",80 Broad St,28th Floor,10004,New York,NY,USA,40.606061,-73.822331
+76,Kewego,HQ,65.0,$19.4M,games_video,,"111, rue Cardinet",,75017,Paris,,FRA,46.227638,2.213749
+77,WildTangent,Global Headquarters,,$84M,games_video,"games, online-games, video-games, online-advertising",18578 NE 67th Ct,Building 5,98052,Redmond,WA,USA,37.09024,-95.712891
+78,WeShow,,0.0,$5M,games_video,"videoaggregator, videoaggregation, videosearch",,,10017,New York,NY,USA,40.752516,-73.973072
+79,PlayFirst,HQ,,$37.7M,games_video,"mobile-games, iphone-games, ipad-games, casual-games, diner-dash, chocolatier, dream-chronicles, wedding-dash, dinertown-zoo",160 Spear St,Suite 1300,94105,San Francisco,CA,USA,37.790346,-122.40185
+81,Delve Networks,,,$9.65M,games_video,"audio, video, podcast, search",206 1st Ave South,,98104,Seattle,WA,USA,47.600818,-122.334117
+82,DeepRockDrive,,,$3M,games_video,"music, concert, livemusic",,,89173,Las Vegas,NV,USA,36.1062,-115.1374
+83,Critical Media,,,$6.2M,games_video,"syndicate, video",521 Fifth Avenue,16th Floor,10175,New York,NY,USA,,
+84,Outspark,,,$23.3M,games_video,,,,,San Francisco,CA,USA,37.775196,-122.419204
+85,Zynga,SF HQ,115.0,$860M,games_video,"facebookapplications, games, socialnetworking, casualgames, vcmania, facebook",365 Vermont St.,,94103,San Francisco,CA,USA,37.765158,-122.404234
+87,Zynga,,115.0,$860M,games_video,"facebookapplications, games, socialnetworking, casualgames, vcmania, facebook",,,,Baltimore,MD,USA,,
+88,Zynga,,115.0,$860M,games_video,"facebookapplications, games, socialnetworking, casualgames, vcmania, facebook",,,,Los Angeles,CA,USA,,
+90,WorldTV,Irish Office,5.0,$1M,games_video,"tv, channel, video, broadcast, web2ireland",,,,Limerick,,IRL,52.6638571,-8.6267726
+91,WorldTV,London Office,5.0,$1M,games_video,"tv, channel, video, broadcast, web2ireland",,,,London,,GBR,51.5001524,-0.1262362
+92,Maven Networks,,0.0,$12M,games_video,,,,,Cambridge,MA,USA,42.375392,-71.118487
+93,GameDuell,US Headquarters,200.0,$17.5M,games_video,"games, social, cross-platform, berlin, fun, good-time, community","703 Market St., Ste. 350",,"CA, 94103",San Francisco,CA,USA,,
+94,GameDuell,European Headquarters,200.0,$17.5M,games_video,"games, social, cross-platform, berlin, fun, good-time, community",Taubenstr. 24-25,,10117,Berlin,,DEU,52.5131826,13.3941489
+95,Netflix,,2000.0,$230M,games_video,"movies, dvd-rental, online-video-rental, video-download, movie-download",100 Winchester Circle,,95032,Los Gatos,CA,USA,37.25142,-121.968687
+96,Social Gaming Network,HQ Los Angeles,100.0,$17.1M,games_video,"social, gaming, sgn",9570 W. Pico Blvd 3rd Floor,,90035,Los Angeles,CA,USA,37.446823,-122.161523
+97,Social Gaming Network,,100.0,$17.1M,games_video,"social, gaming, sgn",9606 S. Santa Monica Blvd,2nd Floor,90210,Beverly Hills,CA,USA,34.0698494,-118.4054182
+98,Paprika Lab,,30.0,$3.2M,games_video,"web-2-0, simplicity, agile-development, ruby-on-rails, social-networking, b2c, b2b",736-54 LS Building 3F,"Yeoksam-dong, Gangnam-gu",135-080,Seoul,,KOR,,
+99,RiffTrax,,8.0,$5M,games_video,video-humor,12230 El Camino Real,Suite 300,92130,San Diego,CA,USA,32.936973,-117.240431
+100,FameCast,HQ,,$9.7M,games_video,"music, video, socialnetwork, socialmedia, artists, fans, platform, social, network, profile",3000 East Cesar Chavez,,78702,Austin,TX,USA,30.268735,-97.745209
+101,Redux,,11.0,$8.11M,games_video,"people-discovery, discovery, people, discovery-network",2054 University Avenue,Floor #2,94704,Berkeley,CA,USA,37.87168,-122.269494
+102,Raptr,,,$27M,games_video,,701 N Shoreline Blvd,,94043,Mountain View,CA,USA,37.40384,-122.07808
+103,iOpener,,,€10.1M,games_video,,RoermonderstraÃŸe 199,,52072,Aachen,,DEU,50.791481,6.066681
+104,Inuk Networks,,,$18.6M,games_video,"iptv, broadbandvideo, internetprotocol","Enterprise House, Navigation Park",,,Abercynon,,GBR,,
+105,Panther Express,,,$21.8M,games_video,"contentdelivery, video, audio, caching","40 W. 20th Street, 6th Floor",,10011,New York,NY,USA,,
+106,Boonty,,150.0,$10M,games_video,"games, free-online-games, community, social-casual-gaming, casual-games, video-games, pc-games, items, play-4-free, advertising-games, boonty, cafe-com",54 Franklin Street,3F,10013,New York,NY,USA,40.717248,-74.002662
+107,Generate,Santa Monica,,$8M,games_video,"video, professional, cross-platform, entertainment, tv, production, talent-management, research, millennials",1545 26th Street,Suite 200,90404,Santa Monica,CA,USA,34.031328,-118.471463
+108,Generate,New York,,$8M,games_video,"video, professional, cross-platform, entertainment, tv, production, talent-management, research, millennials",845 3rd Avenue,"6th Floor, Suite 652",10022,New York,NY,USA,40.7570972,-73.969821
+109,Akoha,,12.0,$1.9M,games_video,"techcrunch50, tc50",3981 boul. St. Laurent,Mezz 1,H2W 1Y5,Montreal,,CAN,45.516545,-73.578477
+110,FriendFinder Networks,,350.0,$551M,games_video,keri-mowery,6800 Broken Sound Parkway,Suite 100,56100,Boca Raton,FL,MYS,26.4074809,-80.1169895
+111,Playfish,Corporate Headquarters,,$21M,games_video,"social-gaming, social-games, social-networks, facebook, myspace, widgets, applications",125 Kensington High St,W8 5SF,London,London,,GBR,51.4991094,-0.1984802
+112,Playfish,Playfish Arctic,,$21M,games_video,"social-gaming, social-games, social-networks, facebook, myspace, widgets, applications",Strandvn. 106,,9291,TromsÃ¸,,NOR,69.636216,18.931062
+114,XIHA,,8.0,$1M,games_video,"multilingual, social-networking, games, friends, photos, blogs, realtime, search",Mannerheimintie 12 B,5th floor,00100,Helsinki,,FIN,60.1681494,24.9410012
+116,XIHA,HQ Europ,8.0,$1M,games_video,"multilingual, social-networking, games, friends, photos, blogs, realtime, search",Seefeldstrasse 69,,CH-8008,ZÃ¼rich,,CHE,,
+117,Mytopia,,29.0,$3.5M,games_video,"techcrunch50, tc50, gaming, social-networks",,,94301,Palo Alto,CA,USA,34.007967,-118.489681
+118,Pikum,,15.0,$5.92M,games_video,"gaming, social-networks, first-round-capital, web-2.0, gambling, betting, sports, pop-culture, competition",7 Chalcot Road,,Nw1 8lh,London,,GBR,51.539778,-0.152998
+119,ibeatyou,,,$1M,games_video,video,,,90408,Santa Monica,CA,USA,34.0195,-118.4906
+120,Realtime Worlds,,225.0,$82.8M,games_video,games,,,,Dundee,,GBR,56.461428,-2.968111
+121,Realtime Worlds,,225.0,$82.8M,games_video,games,,,,Boulder,CO,USA,40.010492,-105.276843
+122,AudioMicro,,10.0,$1.25M,games_video,"music, audio, royalty-free-music, production-music, music-cues, catalog, artists, license, songs, independent, , license-music, buyout-music, commercial-music, sound-effects, stock-music, content-licensing, free-sound-effects, micro-stock, music-licensing",13351-D Riverside Dr #219,,91423,Sherman Oaks,CA,USA,34.153588,-118.422495
+123,Cellufun,Worldwide HQ,30.0,$5.23M,games_video,cellufun,33 West 19th Street,Suite 329,10011,New York,NY,USA,40.73993,-73.9930489
+124,eRepublik,Office,30.0,€2.75M,games_video,"erepublik, alexis-bonte, mmog, mmogs, games, online-games, virtual-worlds, strategy, social-network, ugc",Almagro 22,,28010,Madrid,,ESP,40.43094,-3.6952896
+125,eRepublik,Office,30.0,€2.75M,games_video,"erepublik, alexis-bonte, mmog, mmogs, games, online-games, virtual-worlds, strategy, social-network, ugc","Unit 13, The Seapoint Building",44/45 Clontarf Road,D3,Dublin,,IRL,,
+126,eRepublik,Office,30.0,€2.75M,games_video,"erepublik, alexis-bonte, mmog, mmogs, games, online-games, virtual-worlds, strategy, social-network, ugc","Calea Plevnei nr.53, etaj 4",Sector 1,010223,Bucuresti,,ROM,,
+127,Vivity Labs,,10.0,$1M,games_video,"brain-games, brain-fitness, brain-gym, brain-health",21 Water Street,,V6B 1A1,Vancouver,,CAN,49.282249,-123.108456
+128,Velocix,Corporate Headquarters,,$25M,games_video,"livestreaming, cdn, contentdeliverynetwork, videostreaming, flashstreaming, video, caching, hd, high-definition-video-streaming, progressive-download",326 Cambridge Science Park,,CB4 0WG,Cambridge,,GBR,,
+129,Velocix,New York Office,,$25M,games_video,"livestreaming, cdn, contentdeliverynetwork, videostreaming, flashstreaming, video, caching, hd, high-definition-video-streaming, progressive-download",1230 Avenue of the Americas,,10020,New York,NY,USA,40.758504,-73.980068
+130,Comcast,One Comcast Center,100000.0,$725M,games_video,,1701 JFK Blvd,,19103,Philadelphia,PA,USA,39.9525762,-75.1652518
+131,Monkeysee,Knowlera Media,,$1M,games_video,,774 Walker Road 2nd Floor,,22066,Great Falls,VA,USA,,
+132,PluggedIn,Corporate Headquarters,0.0,$2M,games_video,"pluggedin, music, sony-bmg, umg, emi, music-videos, videos, hulu, will-smith",,,,Santa Monica,CA,USA,34.007967,-118.489681
+133,MUBI,,20.0,$8.25M,games_video,"film, movie, cinema, video, art-house, social-media, social-network",668 High Street,,94301,Palo Alto,CA,USA,37.44236,-122.161025
+134,MUBI,,20.0,$8.25M,games_video,"film, movie, cinema, video, art-house, social-media, social-network",1 Newburgh Street,Soho,W1F 7RB,London,,GBR,,
+135,Modern Feed,,123.0,$3M,games_video,"video-programming, tv-guide, online-guide",818 N. La Brea Ave.,,90038,Los Angeles,CA,USA,34.085749,-118.343791
+136,Gracenote,Corporate Headquarters,,$33.4M,games_video,"music, DSP","2000 Powell Street, Suite 1500",,94608,Emeryville,CA,USA,,
+137,Gracenote,,,$33.4M,games_video,"music, DSP",466 8th St,#3,94103,San Francisco,CA,USA,,
+138,Gracenote,Gracenote KK,,$33.4M,games_video,"music, DSP",Shibuya Place 8F,1-10-5 Dogenzaka,150-0043,"Shibuya-ku, Tokyo",,JPN,,
+139,Gracenote,,,$33.4M,games_video,"music, DSP",St.-Martin-Strasse 61,,81669,Muenchen,,DEU,,
+140,Serious Business,,22.0,$4M,games_video,"facebook, social-games",580 Market Street,#600,94104,San Francisco,CA,USA,37.7893215,-122.4013624
+141,Kabam,HQ,650.0,$125M,games_video,"social-media, web2-0, social-networking, social-games, interactive-entertainment",795 Folsom Street,Suite 600,94107,San Francisco,CA,USA,37.3944561,-122.0785314
+142,Kabam,Beijing office,650.0,$125M,games_video,"social-media, web2-0, social-networking, social-games, interactive-entertainment",,,,Beijing,,CHN,,
+143,Turbine,,200.0,$76.6M,games_video,"game, online-games, social-gaming, role-playing-games","60 Glacier Drive, Suite 4000",,,Westwood,MA,USA,42.214483,-71.185964
+144,Turbine,,200.0,$76.6M,games_video,"game, online-games, social-gaming, role-playing-games",,,,Redwood City,CA,USA,37.477652,-122.223384
+145,GodTube,,,$32.5M,games_video,"christian, social-network, online-video-sharing",7160 Dallas Parkway,,75024,Plano,TX,USA,33.075067,-96.823962
+146,Jinni,,35.0,$8.1M,games_video,"movie-recommendation-engine, tv-recommendation-engine, discovery-engine, movie-discovery, tv-discovery, video-on-demand, recommendation-service, semantic-search, movie-genome, semantic-recommendations, tv-genome",,,,Tel Aviv,,ISR,32.0554,34.7595
+147,Citizen Sports,,27.0,$10M,games_video,sports,525 Brannan St,,94107,San Francisco,CA,USA,37.777513,-122.397044
+148,OVGuide,,,$7.98M,games_video,"video-directory, online-video-search, video-discovery, online-video-guide",,,,Los Angeles,CA,USA,34.052187,-118.243425
+149,sevenload,,67.0,€25M,games_video,"fotos, photos, videos, foto, photo, video, clip, clips, bild, bilder, komisch, lustig, frei, trailer, community, teilen, sharing, iptv, pics, picz, vids, vidz, widgets, fotografie, fotographie",Vogelsanger Str. 78,,50823,Cologne,,DEU,50.945289,6.921546
+150,amazingtunes,,,£1.4M,games_video,"music, discovery, marketplace",19 Grey St,,NE1 6EE,Newcastle Upon Tyne,,GBR,54.971346,-1.611141
+151,Sometrics,,35.0,$5.55M,games_video,"analytics, social-media, social-networking, advertising, sometrics, virtual-currency, alternative-payment, micro-transactions",,,90245,El Segundo,CA,USA,34.048857,-118.251343
+152,GameFly,GameFly HQ,,$10.7M,games_video,,11405,Suite 110,90066,Los Angeles,CA,USA,33.934558,-118.3962622
+153,Fliqz,,25.0,$12.2M,games_video,,1266 66th St.,#10,94608,Emeryville,CA,USA,37.848641,-122.289498
+154,Moblyng,,,$19.1M,games_video,,901 Marshall St. #125,,94063,Redwood City,CA,USA,37.453665,-122.229069
+155,PurePlay,,,$15M,games_video,"games, poker, online-poker",,,,San Francisco,CA,USA,37.775196,-122.419204
+156,Soundflavor,,17.0,$5.8M,games_video,"music, discovery","2339 Third Street, 4th Floor",,94107,San Francisco,CA,USA,,
+157,eJamming,,,$1.84M,games_video,"shared-live-music, voip-music, remote-music",,,,Boca Raton,FL,USA,26.367481,-80.114723
+158,TuneCore,,,$7M,games_video,"music-store, band, music",45 Main Street,Suite 705,11201,Brooklyn,NY,USA,40.704382,-73.986572
+159,CCP Games,Headquarters,360.0,$36.3M,games_video,"eve-online, eve, game, virtual-world, metaverse, icelandic",Grandagarður 8,,101,Reykjavik,,ISL,,
+160,CCP Games,CCP North America,360.0,$36.3M,games_video,"eve-online, eve, game, virtual-world, metaverse, icelandic",2075 West Park Place BLVD.,Suite G,Stone Mountain,Stone Mountain,GA,USA,33.817752,-84.120458
+161,Gamook,,,$1.5M,games_video,casual-games,2735 Sand Hill Road,,94025,Menlo Park,CA,USA,37.41924,-122.208414
+163,Knowledge Adventure,,,$26.8M,games_video,,2377 Crenshaw Blvd.,Suite 302,90501,Torrance,CA,USA,33.8231,-118.328584
+164,Vostu,,550.0,$48.7M,games_video,"social-network, brazilian-social-network, spanish-social-network",999 Juana Manso,,1107,Buenos Aires,,ARG,,
+165,Titan Gaming,Santa Monica Office,18.0,$1M,games_video,"web-platform, gaming, social-network, games","1351 4th Street, 4th floor",,90401,Santa Monica,CA,USA,53.544711,-113.515769
+166,Stardoll,,,$10M,games_video,"dolls, mature-tweens, girls",Hudiksvallsgatan 8,,113 30,Stockholm,,SWE,59.345553,18.037611
+167,Stardoll,,,$10M,games_video,"dolls, mature-tweens, girls",Luntmakargatan 26,,111 37,Stockholm,,SWE,,
+168,VBS TV,HeadQuarters,100.0,$10M,games_video,"iptv, web-video, online-video",97 North Tenth Street,Suite 204,11211,Brooklyn,NY,USA,40.720764,-73.957968
+169,Break Media,Corporate Headquarters,,$21.4M,games_video,"advertising, marketing, video, web, men, comedy",5757 Wilshire Blvd.,Suite 300,90036,Los Angeles,CA,USA,,
+170,My Damn Channel,"My Damn Channel, Inc.",10.0,$8.66M,games_video,"video, media-platform",202 W. 40th St.,16th Floor,10018,New York,NY,USA,40.754762,-73.988543
+171,My Damn Channel,Los Angeles office,10.0,$8.66M,games_video,"video, media-platform",2121 Rosecrans Ave.,Suite 4310,90245,El Segundo,CA,USA,33.9019543,-118.3872018
+172,Funtactix,HQ,,$6M,games_video,,349 5TH AVE,,10016,New York,NY,USA,,
+173,Mediastay,MEDIASTAY SAS,,$21.5M,games_video,,45 rue Jean Jaures,,92300,Levallois Perret,,FRA,48.891494,2.292728
+174,Mediastay,MEDIASTAY NORTH AMERICA,,$21.5M,games_video,,350 Sansome Street,,94104,San Francisco,CA,USA,,
+175,9You,,460.0,$100M,games_video,"virtual-world, gaming, games",6F Harbour Ring Plaza No.18,XiZhangZhong Rd,200001,Shanghai,,CHN,,
+176,Fluid Entertainment,Corporate Headquarters,,$3.2M,games_video,"virtual-world, gamine, games, children",16 Buena Vista Avenue,,94941,Mill Valley,CA,USA,37.906966,-122.545763
+177,Numedeon,,,$1M,games_video,virtual-world,417 Associated Rd,#324,92821,Brea,CA,USA,33.9133208,-117.8789031
+178,Riot Games,,,$8M,games_video,,10736 Jefferson Blvd.,#622,90230,Culver City,CA,USA,34.0025911,-118.3942383
+179,GenArts,Corporate Headquarters,15.0,$22.4M,games_video,"special-effects, visual-effects, software, vfx, editing, motion-graphics",955 Massachusetts Ave,,02139,Cambridge,MA,USA,42.369007,-71.110276
+180,Lexy,Corporate Headquarters,,$1.71M,games_video,"audio, mobile, music",589 Howard Street,Fifth Floor,94105,San Francisco,CA,USA,37.786906,-122.397672
+181,Ku6,,,$40M,games_video,photo-video,,,,Beijing,,CHN,,
+182,iStreamPlanet,Headquarters,50.0,$15M,games_video,"web-video, streaming, webcast, tradeshow-video",6630 West Arby Ave.,Suite 112,89118,Las Vegas,NV,USA,36.059658,-115.23671
+183,iStreamPlanet,Redmond Office,50.0,$15M,games_video,"web-video, streaming, webcast, tradeshow-video",8561 154th Ave NE,,98052-3557,Redmond,WA,USA,,
+184,Anvato,Corporate Headquarters,,$2.55M,games_video,"contextual-video-search, video-copyright",465 N. Whisman Road,Suite 600,94043,Mountain View,CA,USA,37.400689,-122.0572
+185,Six Degrees Games,HQ,,$18M,games_video,,4223 Glencoe Boulevard,Suite C215,90292,Marina del Rey,CA,USA,,
+186,Atari,HQ,400.0,$7.26M,games_video,,417 Fifth Avenue,,10016,New York,NY,USA,,
+187,ngmoco,Secret Factory,150.0,$44.8M,games_video,"gaming, iphone-games, mobile-games, mobile, iphone",185 Berry Street,Suite 3000,94107,San Francisco,CA,USA,37.7705096,-122.4015807
+188,Network Foundation Technologies,Corporate Headquarters,,$1.44M,games_video,"video, audio, broadcast, nft",10250 Constellation Blvd.,Suite 2062,90067,Century City,CA,USA,34.057646,-118.417382
+189,Canwest,HQ,,$24M,games_video,,3100-201 Portage Ave,,MB R3B 3L7,Winnipeg,,CAN,,
+190,Veveo,Corporate Headquarters,,$14M,games_video,web-video,40 Shattuck Road,Suite #303,01810,Andover,MA,USA,42.687142,-71.212156
+191,Veveo,Veveo India,,$14M,games_video,web-video,"8th Floor, Tower B",#150 Airport Road,560008,Bangalore,,IND,,
+192,UltiZen,HQ,,$15.5M,games_video,"gaming, on-line-games",879 Zhong Jiang Rd.,"3rd Floor, Building 4, Universal Software Park,",200333,Shanghai,,CHN,,
+193,DeNA,Headquarters,2192.0,¥2.21B,games_video,"mobile, social-game-platform, social-games, mobile-games, social-network, e-commerce, instant-messaging","Shibuya Hikarie, 2-21-1","Shibuya, Shibuya-ku",150-8510,Tokyo,,JPN,,
+194,Vollee,HQ,,$7.5M,games_video,,1 Hachoshlim Street,Meir House 2F,46733,Hertzilya,,ISR,,
+195,PPTV,HQ,,$287M,games_video,photo-video,Shanghai Zhangjiang Hi-Tech Park,"690 Bibo Road, Building 5",20000,Shanghai,,CHN,,
+196,Shattered Reality Interactive,Main Office,10.0,$1.1M,games_video,"techcrunch50, tc50, games, mmo, social, online, casual-games",490 2nd Street,Suite 100,94107,San Francisco,CA,USA,37.783046,-122.394067
+197,PlayPhone,Headquarters,,$95.1M,games_video,mobile-web-site,114 Sansome Street,Suite 1000,94104,San Francisco,CA,USA,,
+198,Tweegee,Tweegee Develpoment,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",B.S.R 1,Ben Gurion 2,,Ramat Gan,,ISR,32.037363,34.8003705
+199,Tweegee,Tipeez Turkey,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",,,,Istanbul,,TUR,,
+200,Tweegee,Tvidi.ru,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",,,,Moscow,,RUS,,
+201,Tweegee,Twigis.com,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",,,,Buenos Aires,,ARG,,
+202,NYX Interactive,HQ,,€5M,games_video,"online-gaming, casino, sportsbook",Sandhamnsgatan 63 C,,115 28,Stockholm,,SWE,,
+203,Hangout Industries,,,$12M,games_video,"techcrunch50, tc50",110 Chauncy Street,,02111,Boston,MA,USA,42.352835,-71.0609612
+204,UltiZen,HQ,,$15.5M,games_video,"gaming, on-line-games",879 Zhong Jiang Rd.,"3rd Floor, Building 4, Universal Software Park,",200333,Shanghai,,CHN,,
+205,DeNA,Headquarters,2192.0,¥2.21B,games_video,"mobile, social-game-platform, social-games, mobile-games, social-network, e-commerce, instant-messaging","Shibuya Hikarie, 2-21-1","Shibuya, Shibuya-ku",150-8510,Tokyo,,JPN,,
+206,Vollee,HQ,,$7.5M,games_video,,1 Hachoshlim Street,Meir House 2F,46733,Hertzilya,,ISR,,
+207,PPTV,HQ,,$287M,games_video,photo-video,Shanghai Zhangjiang Hi-Tech Park,"690 Bibo Road, Building 5",20000,Shanghai,,CHN,,
+208,Shattered Reality Interactive,Main Office,10.0,$1.1M,games_video,"techcrunch50, tc50, games, mmo, social, online, casual-games",490 2nd Street,Suite 100,94107,San Francisco,CA,USA,37.783046,-122.394067
+209,PlayPhone,Headquarters,,$95.1M,games_video,mobile-web-site,114 Sansome Street,Suite 1000,94104,San Francisco,CA,USA,,
+210,Tweegee,Tweegee Develpoment,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",B.S.R 1,Ben Gurion 2,,Ramat Gan,,ISR,32.037363,34.8003705
+211,Tweegee,Tipeez Turkey,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",,,,Istanbul,,TUR,,
+212,Tweegee,Tvidi.ru,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",,,,Moscow,,RUS,,
+213,Tweegee,Twigis.com,22.0,$3M,games_video,"techcrunch50, tc50, kids, tweens, safty, games, avatar, virtual-world, fun, entertainment, cartoons, movies, social-network, social-activities",,,,Buenos Aires,,ARG,,
+214,NYX Interactive,HQ,,€5M,games_video,"online-gaming, casino, sportsbook",Sandhamnsgatan 63 C,,115 28,Stockholm,,SWE,,
+215,Hangout Industries,,,$12M,games_video,"techcrunch50, tc50",110 Chauncy Street,,02111,Boston,MA,USA,42.352835,-71.0609612
+216,Brightstorm,Headquarters,,$6M,games_video,"video, education, learning","685 Market St. Street, Suite 270",,94105,San Francisco,CA,USA,37.804619,-122.371203
+217,Heatwave Interactive,Headquarters,,$12.6M,games_video,,Tower of the Hills,13809 Research Blvd.,78750,Austin,TX,USA,30.297775,-97.762921
+218,Radio One Llama,,10.0,$1M,games_video,,,,,Champaign,IL,USA,40.1128,-88.271074
+219,One Season,,,$3.75M,games_video,"sports, market, stockmarket",,,,San Francisco,CA,USA,37.775196,-122.419204
+220,MXP4,HQ,15.0,$17M,games_video,"interactive-music, interactive-music-games, social-music-games, social-music-gaming, play-with-it, interactive-music-solution",54 Rue Paradis,4th Floor,75010,Paris,,FRA,,
+221,Apaja,Apaja HQ,44.0,€1.75M,games_video,"online, games, online-games, casual-games, gaming, avatars, community, entertainment, helsinki, finnish, playray, aapeli",Mikonkatu 19,,00100,Helsinki,,FIN,60.171821,24.945167
+222,Booyah,Booyah Inc.,,$59.5M,games_video,"iphone, real-world-gaming, location-based-gaming, gps, ipod-touch, mytown, monopoly, location-based, check-in, real-world, offers, avatar, mmo, mobile, mobile-games, social-game, social-games","139 Townsend Street, 3rd Floor",,94107,San Francisco,CA,USA,37.420728,-122.2103414
+223,GotGame,GotGame HQ,15.0,$1M,games_video,"games, video-games, videos, gaming-videos, news, gaming-news, in-game, chat, communication, instant-messaging, voice-chat",1 Bluxome Place,Suite 204,94107,San Francisco,CA,USA,37.77772,-122.395785
+224,For Your Imagination,HQ,10.0,$1.3M,games_video,"online-video, video-marketing, marketing, branded-entertainment",22 West 27th Street,6th Floor,10001,New York,NY,USA,40.744594,-73.989698
+225,SureSpeak,Chicago Office,8.0,$1.6M,games_video,video-flash-asp-net--net-coaching-sales-training-elearning-lms-role-play,29 S Lasalle St,Suite 1205,60603,Chicago,IL,USA,41.889183,-87.632519
+226,Games2Win,,,$13M,games_video,,"42, Film Center,","4th Floor, 68,",,"Tardeo,Mumbai",,IND,18.9742904,72.8127265
+227,Awdio,HQ,,€1.5M,games_video,"music, dj, club, internet, stream, live",33 rue Stephenson,,75018,Paris,,FRA,48.887534,2.356288
+228,Citizenside,Paris Bureau,12.0,€1.04M,games_video,"citizenside, citizen, reporters, ugc, content, afp, videos, photos, news, agency, celebrities, celebs, citizen-reports, people, white-label, matthieu, stefani, platforms, amateur-content",Level 5,52 boulevard Sébastopol,75003,Paris,,FRA,48.8926988,2.3179601
+229,Verismo Networks,,,$17M,games_video,,1451 Grant Road #200,,94040,Mountain View,CA,USA,37.3874345,-122.051793
+230,One True Media,,,$14M,games_video,"video-sharing, video-edting, collaboration",955 - A Charter Street,,94063,Redwood City,CA,USA,37.485824,-122.212095
+231,Machinima,,,$49.6M,games_video,"gaming, video-games, game-teasers, video",8441 Santa Monica Blvd,,90069,West Hollywood,CA,USA,34.0906409,-118.3740745
+232,KIXEYE,HQ,,$19M,games_video,,333 Bush Street,Floor 19,94104,San Francisco,CA,USA,,
+233,Xendex Holding,HQ,,$5.8M,games_video,,Mariahilfer Strasse 116/3,,1070,Vienna,,AUT,,
+234,Wizzgo,,11.0,$2.5M,games_video,,,,,Paris,,FRA,,
+235,Oberon Media,Global Headquarters,,$36M,games_video,,100 Broadway,14th Floor,10005,New York,NY,USA,,
+236,GREE,Headquarters,700.0,¥464M,games_video,"mobile-web, japan, tokyo, social-network, mobile-social-network, mobile-games","Roppongi-Hills Mori Tower, 6-10-1, Roppongi",Minato-ku,106-0032,Tokyo,,JPN,,
+237,RGB Networks,HQ,125.0,$52M,games_video,"multiscreen-ip-video, video-processing, transcoding, packaging, ad-insertion, ndvr, tv-everyhwere, ott",390 West Java Drive,,94089,Sunnyvale,CA,USA,37.4123706,-122.0216271
+238,MyOtherDrive,HeadQuarters,5.0,$1M,games_video,"online-backup, online-storage, file-sharing, private-sharing, file-linking, video-sharing, media-sharing, secure-links, file-hosting, photo-sharing, photo-album",130 W 2nd Street,Suite 999,45402,Dayton,OH,USA,39.7605421,-84.1949463
+239,GlassBox,,,$6.21M,games_video,,2196 Dunwin Drive,,L5L 1C7,"Mississauga, ON",,CAN,43.5351549,-79.6735074
+240,Robotgalaxy,,,$12M,games_video,,"41 Union Square West,",Suite 808,10003,New York,NY,USA,40.737216,-73.990947
+242,Wazoo Sports,,,$2M,games_video,,P.O. Box 3289,,40743,London,KY,USA,37.1286,-84.0834
+243,Playlogic,,,$19.3M,games_video,,Playlogic International N.V. World Trade Centre,C-Tower 10th Floor Strawinskylaan 1041,1077,Amsterdam,,NLD,,
+244,Heyzap,Head Quaters,,$7.97M,games_video,"games, games-developers","3rd Floor, 251 Kearny Street",Kearny Street,94108,San Francisco,CA,USA,37.7905538,-122.4041485
+245,GAMEVIL,,,$80M,games_video,,4th FL. Samsung IT Valley 197-5,"Guro 3dong, Guro gu",152-848,Seoul,,KOR,,
+246,D2C Games,HQ,,$7.5M,games_video,,1810 Gateway Drive,Suite 115,94404,San Mateo,CA,USA,,
+247,NetStreams,,,$18.2M,games_video,,3600 W. Parmer Lane,Suite 100,78727,Austin,TX,USA,30.424305,-97.709981
+248,C3L3B Digital,,,$3M,games_video,,5016 Parkway Calabasas,Suite 220,91302,Calabasas,CA,USA,34.1549426,-118.6545471
+249,Comixology,Main Office,,$3.47M,games_video,,159 West 25th Street 9th floor,,10010-4436,New York,NY,USA,40.740512,-73.987794
+250,Aurora Feint,HQ,,$7.66M,games_video,,330 Primrose Road,Suite 515,94010,Burlingame,CA,USA,,
+251,Gamervision,,,$10M,games_video,,4030 Skyron Drive,Suite F,18902,Doylestown,PA,USA,40.3321202,-75.1184485
+252,RealD,HQ,,$72M,games_video,,"100 North Crescent Dr.,",Suite 120,90210,Beverly Hills,CA,USA,34.067554,-118.395658
+253,Selatra,Irish Office,,€4M,games_video,"mobile, games, apps, platform, storefront, cloud, operator, odp, portal",4500 Airport Business Park,Kinsale Road,,Cork,,IRL,51.8717115,-8.5010032
+254,whistleBox,,,$2.3M,games_video,,80 North 7th Street,,11211,Brooklyn,NY,USA,40.7197125,-73.9607545
+255,Tvinci,Head office,50.0,$6.1M,games_video,"video, internet-video, internet-tv, turnkey-video-solution, custom-internet-tv, ott, multi-screen-video, monetize-video, online-video, connected-tv, iptv, stb, mobile-video",52 A' HaMasger st.,P.O. 57572,61574,Tel Aviv,,ISR,,
+256,Frenzoo,,7.0,$1M,games_video,"frenzoo, 3d-avatar, dress-up, fashion-games, 3d, avatar, social-game, virtual-currency, web, consumer-internet",19B,184 Queens Road East,00000,Hong Kong,,HKG,,
+257,BASH Gaming,US Office,25.0,$1M,games_video,"casino, bingo, facebook, iphone, android, social",,,94555,Fremont,CA,USA,37.5561712,-122.0780632
+258,BASH Gaming,India Office,25.0,$1M,games_video,"casino, bingo, facebook, iphone, android, social",,,,Bangalore,,IND,12.971606,77.594376
+259,Geewa,World Headquarters,60.0,€1.5M,games_video,"multiplayer-game, game, casual-game, flash-game, mobile, iptv, flash, prague, central-europe",Sokolovska 84,,18600,Prague 8,,CZE,50.0938491,14.4505336
+260,Geewa,Berlin Office,60.0,€1.5M,games_video,"multiplayer-game, game, casual-game, flash-game, mobile, iptv, flash, prague, central-europe",August Strasse 88,,10117,Berlin,,DEU,,
+261,Major League Gaming,Corporate Headquarters,45.0,$69M,games_video,"mlg, gaming, halo, competitive, tournament, gamebattles",3 Park Avenue,32nd Floor,10016,New York,NY,USA,40.752672,-73.97593
+262,Quickflix,HQ,75.0,$10M,games_video,,"Level 4, 178 St Georges Terrace",,6000,Perth,,AUS,,
+263,M3X Media,,,$10.5M,games_video,"media, music, video",,,,West Palm Beach,FL,USA,26.72868,-80.099946
+264,Crispy Gamer,,,$8.25M,games_video,"videogaming, community, editorial, the-game-trust, multimedia-syndication",35 West 36th Street,Suite 4W,10018,New York,NY,USA,40.750597,-73.985273
+265,Unity Technologies,US Office,200.0,$17.5M,games_video,"3d, interactive-3d, game-development, content-development, software, middleware, tools",795 Folsom,,94107,San Francisco,CA,USA,55.6924605,12.530107
+266,Unity Technologies,HQ,200.0,$17.5M,games_video,"3d, interactive-3d, game-development, content-development, software, middleware, tools",Duevej 94 a,,2000,Frederiksberg,,DNK,,
+267,Avocado Entertainment,,50.0,$1.5M,games_video,"social-game, mobile-game, social-and-mobile-game-publisher",,,,Seoul,,KOR,,
+268,AnySource Media,"Anysource Media, LLC",,$3.2M,games_video,"television, internet, streaming",70 E. Swedesford Road Suite 120,,19355,Malvern,PA,USA,40.054547,-75.515376
+269,SCVNGR,SCVNGR,60.0,$40.8M,games_video,"mobile, game, princeton, dreamit, google-ventures, highland",One Congress,Suite 111,021114,Boston,MA,USA,42.3406534,-71.0680027
+270,Owlient,Main Office,40.0,€3M,games_video,"game, hobby, browser, virtual-goods",26-28 rue de ChambÃ©ry,,75015,Paris,,FRA,48.8308091,2.3032201
+271,goviral,goviral UK,55.0,$8.82M,games_video,"marketing, viral-marketing",10a Belmont St,,NW1 8HH,London,,GBR,,
+272,goviral,goviral Nordics,55.0,$8.82M,games_video,"marketing, viral-marketing","Købmagergade 26G, 2nd Floor",,1150,Copenhagen K,,DNK,,
+273,goviral,goviral Germany,55.0,$8.82M,games_video,"marketing, viral-marketing",Ganghofer Straße 68b,,80339,München,,DEU,,
+274,goviral,goviral France,55.0,$8.82M,games_video,"marketing, viral-marketing",25 rue Martel,,75010,Paris,,FRA,,
+275,Z2Live,Z2Live,130.0,$6.5M,games_video,,1601 2nd Ave,Suite 800,98101,Seattle,WA,USA,47.6103008,-122.3399782
+276,ZillionTV,Corporate Office,100.0,$18.1M,games_video,television,1170 Kifer Road,,94086,Sunnyvale,CA,USA,37.3738725,-121.9973546
+277,ZillionTV,,100.0,$18.1M,games_video,television,100 Wilshire Blvd.,Suite 750,90401,Santa Monica,CA,USA,34.016838,-118.500603
+278,Preview Networks,European Headquarters,26.0,$4M,games_video,"preview-networks, online, video, syndication, preview, content, film, trailer, trailers, movie",Njalsgade 21F,,2300,Copenhagen,,DNK,55.6659813,12.5800751
+279,Preview Networks,London Office,26.0,$4M,games_video,"preview-networks, online, video, syndication, preview, content, film, trailer, trailers, movie",91 Berwick Street,,W1F0NE,London,,GBR,,
+280,Preview Networks,Berlin Office,26.0,$4M,games_video,"preview-networks, online, video, syndication, preview, content, film, trailer, trailers, movie",Rosenthaler Strasse 34/35,,D-10178,Berlin,,DEU,,
+281,Preview Networks,Paris Office,26.0,$4M,games_video,"preview-networks, online, video, syndication, preview, content, film, trailer, trailers, movie",27 Avenue de l'OpÃ©ra,,75001,Paris,,FRA,,
+282,Preview Networks,Milan Office,26.0,$4M,games_video,"preview-networks, online, video, syndication, preview, content, film, trailer, trailers, movie","via Guido d'Arezzo, 4",,20145,Milan,,ITA,,
+283,Preview Networks,Stockholm Office,26.0,$4M,games_video,"preview-networks, online, video, syndication, preview, content, film, trailer, trailers, movie","Klarabergsg. 29, 5 fl.",,11121,Stockholm,,SWE,,
+284,Tribal Nova,Montreal's Office,,C$3M,games_video,"virtual-world, kids, games","4398, Boul. St-Laurent",Suite 304,H2W 1Z5,Montreal,,CAN,45.5194549,-73.5849023
+286,Serious Parody,,,£1M,games_video,,,,,Dundee,,GBR,56.462018,-2.970721
+287,Scoreloop,HQ,,$2.8M,games_video,,Landsberger Strasse 110,,80339,Munich,,DEU,,
+288,Busca Corp,Busca Corp. USA,45.0,$5M,games_video,"video-games, blogs, social-interaction, reviews, previews, news, event-coverage, and-video, spanish-speakers, hispanics, latinos, mexico, latin-america",7590 Fay Ave. Suite 506,,92037,La Jolla,CA,USA,32.841791,-117.274602
+289,Busca Corp,Busca Corp. Tijuana,45.0,$5M,games_video,"video-games, blogs, social-interaction, reviews, previews, news, event-coverage, and-video, spanish-speakers, hispanics, latinos, mexico, latin-america",Calle Brasil No. 8471,Col. Juarez,22040,"Tijuana, B.C.",,MEX,32.5217442,-117.0274947
+290,Busca Corp,Busca Corp. Mexico City,45.0,$5M,games_video,"video-games, blogs, social-interaction, reviews, previews, news, event-coverage, and-video, spanish-speakers, hispanics, latinos, mexico, latin-america",Insurgentes Sur 348 Piso 9,Col. Roma,06700,Mexico City,,MEX,19.4164309,-99.1651395
+291,NewAuto Video Technology,Newauto Hubei,500.0,$50M,games_video,,"1501#  2 Entrance Phoenix A Building, 312 Zhongshan Road",Wuchang District,300000,Hubei,,CHN,,
+292,Linekong,Corporate Office,600.0,$40M,games_video,,"Floor10/11, Capital Development Tower",Zhongguancun,,"Haidian, beijing",,CHN,,
+293,Playdom,Palo Alto - Headquarters,,$76M,games_video,,395 Page Mill Road,2nd Floor,94306,Palo Alto,CA,USA,37.393536,-122.076747
+294,Playdom,Playdom South,,$76M,games_video,,415 S Cedros Ave,,92075,Solana Beach,CA,USA,,
+295,FanBridge,HQ,,$2.35M,games_video,"frm, fan-relationship-management, music, brands, sports, film, tv, athletes, actors",150 West 25th Street,3rd Floor,10001,New York,NY,USA,,
+296,FanBridge,San Francisco,,$2.35M,games_video,"frm, fan-relationship-management, music, brands, sports, film, tv, athletes, actors",,,,San Francisco,CA,USA,,
+297,Lightning Gaming,,,$4M,games_video,,106 Chelsea Parkway,,19061,Boothwyn,PA,USA,39.8728373,-75.4784988
+298,Virgin Play,Corporate Headquarters,,$3.86M,games_video,,"Paseo de la Castellana, 9-11",,28046,Madrid,,ESP,40.4273082,-3.6895115
+299,Saavn,Corporate Headquarters,25.0,$6M,games_video,"bollywood, music, streaming, south-asian, india",,,10016,New York,NY,USA,40.743877,-73.98618
+300,Ecast,,,$30.3M,games_video,"jukebox, music","49 Geary Street, Mezzanine",,94108,San Francisco,CA,USA,,
+301,2 Minutes,,105.0,$1.66M,games_video,,9 rue biscornet,,75012,Paris,,FRA,48.8502056,2.3698033
+302,GameGround,HQ,25.0,$11.4M,games_video,"achievements, gaming, online-gaming, share, gaming-identity, online, compete, gaming-experience, gamification, badges, meta-game",,,,New York,NY,USA,40.756054,-73.986951
+303,Blip,HQ,47.0,$27.3M,games_video,"video, videoblog, podcast, tv, hosting, advertising, web-series",636 Broadway,3rd Floor,10012,New York,NY,USA,,
+304,Blip,Blip Studios,47.0,$27.3M,games_video,"video, videoblog, podcast, tv, hosting, advertising, web-series",2501 Michigan Ave,,90404,Santa Monica,CA,USA,34.0272246,-118.4682333
+305,WorldWide Biggies,HQ,,$9M,games_video,,545 West 45th Street,5th Floor,10036,New York,NY,USA,,
+306,Forterra Systems,Corporate Headquarters,,$1.2M,games_video,,"2207 Bridgepointe Parkway, Suite 200",,94404,San Mateo,CA,USA,37.561576,-122.284173
+307,Bigpoint,Bigpoint Headquarters,500.0,€420M,games_video,"online-games, browser-games, browsergames, browser-based-online-games, free-to-play, game-portal, publisher, content-provider, developer, games, mmo, mmog",Drehbahn 47-48,,20354,Hamburg,,DEU,53.5973055,9.9762519
+308,Bigpoint,Bigpoint Inc.,500.0,€420M,games_video,"online-games, browser-games, browsergames, browser-based-online-games, free-to-play, game-portal, publisher, content-provider, developer, games, mmo, mmog",500 Howard St.,Suite 300,CA 94105,San Francisco,CA,USA,,
+309,Bigpoint,Bigpoint Berlin,500.0,€420M,games_video,"online-games, browser-games, browsergames, browser-based-online-games, free-to-play, game-portal, publisher, content-provider, developer, games, mmo, mmog",Alexander St.,,10178,Berlin,,DEU,,
+310,Bigpoint,Bigpoint International,500.0,€420M,games_video,"online-games, browser-games, browsergames, browser-based-online-games, free-to-play, game-portal, publisher, content-provider, developer, games, mmo, mmog",1 Villa Zimmermann,Ta 'Xbiex Terrace,XBX 1035,Ta 'Xbiex,,MLT,,
+311,Exent,Sales & Marketing,100.0,$3M,games_video,"games, videogames, games-on-demand, video-games",632 W. 28th St.,8th Floor,10001,New York,NY,USA,40.7523796,-74.005568
+312,Exent,Headquarters,100.0,$3M,games_video,"games, videogames, games-on-demand, video-games",25 Bazel Street,PO Box 2645,49125,Petach-Tikva,,ISR,,
+313,Exent,Premium Services,100.0,$3M,games_video,"games, videogames, games-on-demand, video-games",685 Market Street,Suite 560,94105,San Francisco,CA,USA,37.787646,-122.402759
+314,VIVA,,,$40M,games_video,,"1019 Tower B, ChaoWai SOHO",6/B ChaoWai Street,,Beijing,,CHN,,
+315,PopCap Games,,,$22.5M,games_video,,2401 4th Ave,Suite 810,98121,Seattle,WA,USA,47.6161693,-122.3451897
+316,Ph03nix New Media,,,$1.1M,games_video,,,,,"Calgary, Alberta",,CAN,,
+318,Antix Labs,,,$3M,games_video,,200 Brook Drive,"Green Park, Reading",RG2 6UB,Berkshire,,GBR,,
+319,Tiny Speck,,45.0,$17.2M,games_video,,163 Hastings St W,,BC V6B 1H5,Vancouver,,CAN,49.2824551,-123.109217

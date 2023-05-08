@@ -1,0 +1,10 @@
+Importance,Group,Points,Ponderation,Criteria,,Employees,Distance min,Distance max,SOURCE
+1,Company culture,2,23,Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design,Design company,20,"0,1",500,MongoDB & Foursquare
+2,Employees benefits,1,19,30% of the company staff have at least 1 child.,Schools,26,"0,1",500,Foursquare
+3,Company culture,2,15,Executives like Starbucks A LOT. Ensure there's a starbucks not too far.,Starbucks,10,0,800,Foursquare
+4,Reduce travel expenses,3,12,Account managers need to travel a lot,Airports,20,20,20,Foursquare
+5,Company culture,2,8,The CEO is vegan.,Vegan restaurant,1,"0,1",1000,Foursquare
+6,Company culture,2,8,"The office dog—""Dobby"" needs a hairdresser every month. Ensure there's one not too far away.",Dog hairdresser,1,"0,1",800,Foursquare
+6,Company culture,2,8,"Everyone in the company is between 25 and 40, give them some place to go party.",Pubs ,87,"0,1",800,Foursquare
+7,Company culture,2,7,"If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.",Basketball stadium,1,2,10000,Foursquare
+MANDATORY,Strategy / Position,,,Developers like to be near successful tech startups that have raised at least 1 Million dollars.,Tech start up 1M*,15,Nan,NAN,MongoDB

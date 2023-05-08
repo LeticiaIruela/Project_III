@@ -1,0 +1,57 @@
+,name,description,number_of_employees,total_money_raised,category_code,tag_list,address1,address2,zip_code,city,state_code,country_code,latitude,longitude
+1,Joost,,0.0,$45M,games_video,"iptv, babelgum, television, video, theveniceproject",100 5th Ave Fl 6,,10011-6903,New York,NY,USA,40.7464969,-74.0094471
+3,Kyte,,40.0,$23.4M,games_video,"video, mobile, iphone-app, video-platform, mobile-app, media, interactive",442 Post Street,10th Floor,94102,San Francisco,CA,USA,37.788482,-122.409173
+7,Livestream,Livestream HQ,120.0,$14.7M,games_video,"mogulus, ustream, justin-tv, live-broadcast, streaming, video, livecastr, livestream","111 8th Avenue, #1509",,10011,New York,NY,USA,40.726155,-73.995625
+8,Ustream,San Francisco Office,250.0,$60.1M,games_video,"live, stream, streaming, video, videos, broadcast, broadcasting, mobile, app",410 Townsend,Suite 400,94107,San Francisco,CA,USA,37.392936,-122.07948
+12,Pando Networks,,23.0,$11M,games_video,"p2p, video, streaming, download, cdn",520 Broadway,10th Floor,10012,New York,NY,USA,40.722655,-73.99873
+13,Revision3,HQ,,$9M,games_video,"video, digg, msn",2415 3rd St,,94107,San Francisco,CA,USA,37.757758,-122.388243
+14,CastTV,,0.0,$3.1M,games_video,"videosearch, techcrunch40",374 Brannan St.,,94107,San Francisco,CA,USA,37.780716,-122.393913
+20,hi5,,100.0,$52M,games_video,"hi5, socialnetworking, musicnetwork, youyu",55 Second Street,Suite 400,94105,San Francisco,CA,USA,37.788668,-122.400558
+21,Curse,San Francisco,58.0,$12M,games_video,"mmo, curse",60 Broadway,,94111,San Francisco,CA,USA,37.787092,-122.399972
+31,Revver,,,$12.7M,games_video,"video, youtube, usergeneratedvideo, revenue, revenue-share, ugc, ugv, usergeneratedcontent",,,,Los Angeles,CA,USA,34.052187,-118.243425
+32,Metacafe,,,$50M,games_video,"online-video, video-entertainment, online-entertainment, digital-entertainment, movies, video-games, sports, music, tv",128 King Street,3rd Floor,94107,San Francisco,CA,USA,37.437328,-122.159928
+34,Kongregate,,20.0,$19M,games_video,,2 Shaw Alley,4th Floor,94105,San Francisco,CA,USA,37.786942,-122.401245
+35,DanceJam,,0.0,$4.5M,games_video,"video, dance",965 Mission Street,Suite 730,94103,San Francisco,CA,USA,37.781557,-122.407959
+38,Mevio,,,$48.9M,games_video,"podcast, entertainmentnetwork",577 2nd St Suite 203,,94107,San Francisco,CA,USA,37.782263,-122.392142
+43,SpiralFrog,,15.0,$45M,games_video,"zucchero, music, free",95 Morton Street,Ground Floor,10014,New York,NY,USA,37.09024,-95.712891
+47,OMGPOP,,50.0,$16.6M,games_video,"dating, gaming, auction",SoHo,,,New York,NY,USA,40.723384,-74.001704
+49,Crunchyroll,,50.0,$4.8M,games_video,"crunchyroll, anime, manga, video, gaming, music, kdrama, jdrama, subscription",,,94105,San Francisco,CA,USA,37.781265,-122.393229
+51,hulu,,153.0,$100M,games_video,"hulu, video, embeddable, professional, content, black, lost, heroes, simpsons, office, tv, movies",12312 W. Olympic Blvd.,,90064,Los Angeles,CA,USA,34.031276,-118.456806
+54,RotoHog,,,$8M,games_video,,,,,Los Angeles,CA,USA,33.959799,-118.343938
+61,Rupture,Headquarters,25.0,$3M,games_video,"wow, worldofwarcraft, socialnetwork, napster, snocap",400 2nd Street,Suite 350,94107,San Francisco,CA,USA,37.783898,-122.395234
+62,RayV,,,$16M,games_video,"television, tv, p2p, virv","150 West 77, Suite 4",,,New York,NY,USA,40.781159,-73.978332
+75,Motionbox,,,$17.2M,games_video,"video, video-sharing, video-hosting, video-editing, video-streaming, personal-video, videography",80 Broad St,28th Floor,10004,New York,NY,USA,40.606061,-73.822331
+78,WeShow,,0.0,$5M,games_video,"videoaggregator, videoaggregation, videosearch",,,10017,New York,NY,USA,40.752516,-73.973072
+79,PlayFirst,HQ,,$37.7M,games_video,"mobile-games, iphone-games, ipad-games, casual-games, diner-dash, chocolatier, dream-chronicles, wedding-dash, dinertown-zoo",160 Spear St,Suite 1300,94105,San Francisco,CA,USA,37.790346,-122.40185
+84,Outspark,,,$23.3M,games_video,,,,,San Francisco,CA,USA,37.775196,-122.419204
+85,Zynga,SF HQ,115.0,$860M,games_video,"facebookapplications, games, socialnetworking, casualgames, vcmania, facebook",365 Vermont St.,,94103,San Francisco,CA,USA,37.765158,-122.404234
+96,Social Gaming Network,HQ Los Angeles,100.0,$17.1M,games_video,"social, gaming, sgn",9570 W. Pico Blvd 3rd Floor,,90035,Los Angeles,CA,USA,37.446823,-122.161523
+106,Boonty,,150.0,$10M,games_video,"games, free-online-games, community, social-casual-gaming, casual-games, video-games, pc-games, items, play-4-free, advertising-games, boonty, cafe-com",54 Franklin Street,3F,10013,New York,NY,USA,40.717248,-74.002662
+108,Generate,New York,,$8M,games_video,"video, professional, cross-platform, entertainment, tv, production, talent-management, research, millennials",845 3rd Avenue,"6th Floor, Suite 652",10022,New York,NY,USA,40.7570972,-73.969821
+123,Cellufun,Worldwide HQ,30.0,$5.23M,games_video,cellufun,33 West 19th Street,Suite 329,10011,New York,NY,USA,40.73993,-73.9930489
+129,Velocix,New York Office,,$25M,games_video,"livestreaming, cdn, contentdeliverynetwork, videostreaming, flashstreaming, video, caching, hd, high-definition-video-streaming, progressive-download",1230 Avenue of the Americas,,10020,New York,NY,USA,40.758504,-73.980068
+135,Modern Feed,,123.0,$3M,games_video,"video-programming, tv-guide, online-guide",818 N. La Brea Ave.,,90038,Los Angeles,CA,USA,34.085749,-118.343791
+140,Serious Business,,22.0,$4M,games_video,"facebook, social-games",580 Market Street,#600,94104,San Francisco,CA,USA,37.7893215,-122.4013624
+141,Kabam,HQ,650.0,$125M,games_video,"social-media, web2-0, social-networking, social-games, interactive-entertainment",795 Folsom Street,Suite 600,94107,San Francisco,CA,USA,37.3944561,-122.0785314
+147,Citizen Sports,,27.0,$10M,games_video,sports,525 Brannan St,,94107,San Francisco,CA,USA,37.777513,-122.397044
+148,OVGuide,,,$7.98M,games_video,"video-directory, online-video-search, video-discovery, online-video-guide",,,,Los Angeles,CA,USA,34.052187,-118.243425
+152,GameFly,GameFly HQ,,$10.7M,games_video,,11405,Suite 110,90066,Los Angeles,CA,USA,33.934558,-118.3962622
+155,PurePlay,,,$15M,games_video,"games, poker, online-poker",,,,San Francisco,CA,USA,37.775196,-122.419204
+170,My Damn Channel,"My Damn Channel, Inc.",10.0,$8.66M,games_video,"video, media-platform",202 W. 40th St.,16th Floor,10018,New York,NY,USA,40.754762,-73.988543
+180,Lexy,Corporate Headquarters,,$1.71M,games_video,"audio, mobile, music",589 Howard Street,Fifth Floor,94105,San Francisco,CA,USA,37.786906,-122.397672
+187,ngmoco,Secret Factory,150.0,$44.8M,games_video,"gaming, iphone-games, mobile-games, mobile, iphone",185 Berry Street,Suite 3000,94107,San Francisco,CA,USA,37.7705096,-122.4015807
+196,Shattered Reality Interactive,Main Office,10.0,$1.1M,games_video,"techcrunch50, tc50, games, mmo, social, online, casual-games",490 2nd Street,Suite 100,94107,San Francisco,CA,USA,37.783046,-122.394067
+216,Brightstorm,Headquarters,,$6M,games_video,"video, education, learning","685 Market St. Street, Suite 270",,94105,San Francisco,CA,USA,37.804619,-122.371203
+219,One Season,,,$3.75M,games_video,"sports, market, stockmarket",,,,San Francisco,CA,USA,37.775196,-122.419204
+222,Booyah,Booyah Inc.,,$59.5M,games_video,"iphone, real-world-gaming, location-based-gaming, gps, ipod-touch, mytown, monopoly, location-based, check-in, real-world, offers, avatar, mmo, mobile, mobile-games, social-game, social-games","139 Townsend Street, 3rd Floor",,94107,San Francisco,CA,USA,37.420728,-122.2103414
+223,GotGame,GotGame HQ,15.0,$1M,games_video,"games, video-games, videos, gaming-videos, news, gaming-news, in-game, chat, communication, instant-messaging, voice-chat",1 Bluxome Place,Suite 204,94107,San Francisco,CA,USA,37.77772,-122.395785
+224,For Your Imagination,HQ,10.0,$1.3M,games_video,"online-video, video-marketing, marketing, branded-entertainment",22 West 27th Street,6th Floor,10001,New York,NY,USA,40.744594,-73.989698
+240,Robotgalaxy,,,$12M,games_video,,"41 Union Square West,",Suite 808,10003,New York,NY,USA,40.737216,-73.990947
+244,Heyzap,Head Quaters,,$7.97M,games_video,"games, games-developers","3rd Floor, 251 Kearny Street",Kearny Street,94108,San Francisco,CA,USA,37.7905538,-122.4041485
+249,Comixology,Main Office,,$3.47M,games_video,,159 West 25th Street 9th floor,,10010-4436,New York,NY,USA,40.740512,-73.987794
+261,Major League Gaming,Corporate Headquarters,45.0,$69M,games_video,"mlg, gaming, halo, competitive, tournament, gamebattles",3 Park Avenue,32nd Floor,10016,New York,NY,USA,40.752672,-73.97593
+264,Crispy Gamer,,,$8.25M,games_video,"videogaming, community, editorial, the-game-trust, multimedia-syndication",35 West 36th Street,Suite 4W,10018,New York,NY,USA,40.750597,-73.985273
+299,Saavn,Corporate Headquarters,25.0,$6M,games_video,"bollywood, music, streaming, south-asian, india",,,10016,New York,NY,USA,40.743877,-73.98618
+302,GameGround,HQ,25.0,$11.4M,games_video,"achievements, gaming, online-gaming, share, gaming-identity, online, compete, gaming-experience, gamification, badges, meta-game",,,,New York,NY,USA,40.756054,-73.986951
+311,Exent,Sales & Marketing,100.0,$3M,games_video,"games, videogames, games-on-demand, video-games",632 W. 28th St.,8th Floor,10001,New York,NY,USA,40.7523796,-74.005568
+313,Exent,Premium Services,100.0,$3M,games_video,"games, videogames, games-on-demand, video-games",685 Market Street,Suite 560,94105,San Francisco,CA,USA,37.787646,-122.402759

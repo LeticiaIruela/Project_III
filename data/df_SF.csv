@@ -1,0 +1,25 @@
+,name,description,number_of_employees,total_money_raised,category_code,tag_list,address1,address2,zip_code,city,state_code,country_code,latitude,longitude
+3,Kyte,,40.0,$23.4M,games_video,"video, mobile, iphone-app, video-platform, mobile-app, media, interactive",442 Post Street,10th Floor,94102,San Francisco,CA,USA,37.788482,-122.409173
+13,Revision3,HQ,,$9M,games_video,"video, digg, msn",2415 3rd St,,94107,San Francisco,CA,USA,37.757758,-122.388243
+14,CastTV,,0.0,$3.1M,games_video,"videosearch, techcrunch40",374 Brannan St.,,94107,San Francisco,CA,USA,37.780716,-122.393913
+20,hi5,,100.0,$52M,games_video,"hi5, socialnetworking, musicnetwork, youyu",55 Second Street,Suite 400,94105,San Francisco,CA,USA,37.788668,-122.400558
+21,Curse,San Francisco,58.0,$12M,games_video,"mmo, curse",60 Broadway,,94111,San Francisco,CA,USA,37.787092,-122.399972
+34,Kongregate,,20.0,$19M,games_video,,2 Shaw Alley,4th Floor,94105,San Francisco,CA,USA,37.786942,-122.401245
+35,DanceJam,,0.0,$4.5M,games_video,"video, dance",965 Mission Street,Suite 730,94103,San Francisco,CA,USA,37.781557,-122.407959
+38,Mevio,,,$48.9M,games_video,"podcast, entertainmentnetwork",577 2nd St Suite 203,,94107,San Francisco,CA,USA,37.782263,-122.392142
+49,Crunchyroll,,50.0,$4.8M,games_video,"crunchyroll, anime, manga, video, gaming, music, kdrama, jdrama, subscription",,,94105,San Francisco,CA,USA,37.781265,-122.393229
+61,Rupture,Headquarters,25.0,$3M,games_video,"wow, worldofwarcraft, socialnetwork, napster, snocap",400 2nd Street,Suite 350,94107,San Francisco,CA,USA,37.783898,-122.395234
+79,PlayFirst,HQ,,$37.7M,games_video,"mobile-games, iphone-games, ipad-games, casual-games, diner-dash, chocolatier, dream-chronicles, wedding-dash, dinertown-zoo",160 Spear St,Suite 1300,94105,San Francisco,CA,USA,37.790346,-122.40185
+84,Outspark,,,$23.3M,games_video,,,,,San Francisco,CA,USA,37.775196,-122.419204
+85,Zynga,SF HQ,115.0,$860M,games_video,"facebookapplications, games, socialnetworking, casualgames, vcmania, facebook",365 Vermont St.,,94103,San Francisco,CA,USA,37.765158,-122.404234
+140,Serious Business,,22.0,$4M,games_video,"facebook, social-games",580 Market Street,#600,94104,San Francisco,CA,USA,37.7893215,-122.4013624
+147,Citizen Sports,,27.0,$10M,games_video,sports,525 Brannan St,,94107,San Francisco,CA,USA,37.777513,-122.397044
+155,PurePlay,,,$15M,games_video,"games, poker, online-poker",,,,San Francisco,CA,USA,37.775196,-122.419204
+180,Lexy,Corporate Headquarters,,$1.71M,games_video,"audio, mobile, music",589 Howard Street,Fifth Floor,94105,San Francisco,CA,USA,37.786906,-122.397672
+187,ngmoco,Secret Factory,150.0,$44.8M,games_video,"gaming, iphone-games, mobile-games, mobile, iphone",185 Berry Street,Suite 3000,94107,San Francisco,CA,USA,37.7705096,-122.4015807
+196,Shattered Reality Interactive,Main Office,10.0,$1.1M,games_video,"techcrunch50, tc50, games, mmo, social, online, casual-games",490 2nd Street,Suite 100,94107,San Francisco,CA,USA,37.783046,-122.394067
+216,Brightstorm,Headquarters,,$6M,games_video,"video, education, learning","685 Market St. Street, Suite 270",,94105,San Francisco,CA,USA,37.804619,-122.371203
+219,One Season,,,$3.75M,games_video,"sports, market, stockmarket",,,,San Francisco,CA,USA,37.775196,-122.419204
+223,GotGame,GotGame HQ,15.0,$1M,games_video,"games, video-games, videos, gaming-videos, news, gaming-news, in-game, chat, communication, instant-messaging, voice-chat",1 Bluxome Place,Suite 204,94107,San Francisco,CA,USA,37.77772,-122.395785
+244,Heyzap,Head Quaters,,$7.97M,games_video,"games, games-developers","3rd Floor, 251 Kearny Street",Kearny Street,94108,San Francisco,CA,USA,37.7905538,-122.4041485
+313,Exent,Premium Services,100.0,$3M,games_video,"games, videogames, games-on-demand, video-games",685 Market Street,Suite 560,94105,San Francisco,CA,USA,37.787646,-122.402759
