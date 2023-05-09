@@ -96,20 +96,18 @@ We query Foursquare about the following venues: schools, vegan restaurants, Star
 Creation of a map through folium to place all the points on the map and evaluate the best place.
 Iteration thought each requirement and weigh. These are the results:
 
-<img width="589" alt="19" src="https://user-images.githubusercontent.com/128729754/236957256-d9c6197d-7c2f-4eba-bdf0-471323979931.PNG">
+<img width="405" alt="compli_scores" src="https://user-images.githubusercontent.com/128729754/237003632-05b5bc3e-4a85-489b-836b-04af988925db.PNG">
+
 
 - SAN FRANCISCO RESULTS
 
-<img width="591" alt="20" src="https://user-images.githubusercontent.com/128729754/236957285-9d4c80f2-1527-438a-99f4-e7ca395f4c3f.PNG">
-
-<img width="624" alt="21" src="https://user-images.githubusercontent.com/128729754/236957297-2e6028e7-6a57-4873-bb16-da44b893669c.PNG">
-
+<img width="947" alt="requirements" src="https://user-images.githubusercontent.com/128729754/237003703-8455210a-7b89-4d04-a0dc-327e0652f751.PNG">
+<img width="905" alt="compliance scores" src="https://user-images.githubusercontent.com/128729754/237003739-381f3db1-e913-4e00-91cd-e5fba4485d25.PNG">
 
 ### 4. Conclusions
 
-- The best location is in San Francisco (location B) (5th Avenue/mission st) with a total score of 1 ( maximum total score). Location A ens with a 0.7 score, and location A 0.5 score.
-- Location B meets all the requirements
-- However, location B and C meet 62.5% of the requirements
+- The best locations is in San Francisco (location A & B) (3rd avenue/ mission st and 5th Avenue/mission st) with a total score of 1 ( maximum total score). Location C ends with a 0.6 score,.
+- Location A & B meets all the requirements, C with 60% compliance
 
 
 
