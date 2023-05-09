@@ -80,7 +80,7 @@ To determine a mean starting point to find venues in Foursquare, we analyze firs
 <img width="476" alt="Capture17" src="https://user-images.githubusercontent.com/128729754/236957160-9b8dab45-a184-47b4-bcaa-2b47c9a5610c.PNG">
 
 - LOS ANGELES:
-- 
+
 <img width="530" alt="18" src="https://user-images.githubusercontent.com/128729754/236957202-b5ab2a13-5e40-4e21-8305-8263edac6573.PNG">
 
   With the obtained results, We decide to dismiss and don't explore Los Angeles, as the requirements of more than one company more than 1B$, and related gaming&design companies are not met.
