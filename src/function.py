@@ -18,7 +18,7 @@ def mongo_query(c)
     df=pd.DataFrame(selected_companies2)
     return df
 
-def mongo_address(df)
+def mongo_address(df):
     track = []
     for index, row in df2.iterrows():
         name = row['name']
@@ -48,4 +48,12 @@ def mongo_address(df)
             track.append(x)
     df = pd.DataFrame(track)
     return df
+
+def cleaning_mongo(df):
+    import numpy as np
+    df['city'].replace('',np.nan,inplace=True)
+    df.dropna(subset=["city"], inplace=True)
+    df.to_csv('./data/df3.csv')
+    return df
+
 
