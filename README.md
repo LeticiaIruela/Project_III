@@ -1,5 +1,5 @@
 # Project_III
-![image](https://user-images.githubusercontent.com/128729754/236957549-14ea18b5-84d7-46a2-8cb7-7d7ba9016926.png)
+![image](https://user-images.githubusercontent.com/128729754/237021617-e63f8d07-c018-449c-820d-6ab3a1deec74.png)
 
 ## 1. GeoSpatial Data Project
 This project aims to find the best location for a new company office based on various requirements and preferences of the employees. The company operates in the GAMING industry and has the following employee distribution:
