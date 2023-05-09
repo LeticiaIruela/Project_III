@@ -107,10 +107,5 @@ Iteration thought each requirement and weigh. These are the results:
 ### 4. Conclusions
 
 - The best locations is in San Francisco (location A & B) (3rd avenue/ mission st and 5th Avenue/mission st) with a total score of 1 ( maximum total score). Location C ends with a 0.6 score,.
-- Location A & B meets all the requirements, C with 60% compliance
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 29bb5c059112e5f87162cbba0ff8ec51be9f7fa4
+- Location A & B meets all the requirements, C with 75% compliance
 
